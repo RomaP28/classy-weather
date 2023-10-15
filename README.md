@@ -3,7 +3,7 @@
 # CLASSY WEATHER  App
 
 This small React app was implemented using two approaches: ES6 classes components and functional components.
-You can see them on the `"es6-clasees"` and `"functional comoponetns"` branches.
+You can see them on the `"es6-clasees"` and `"function components"` branches.
 
 ## To run the project locally:
 
